@@ -10,3 +10,4 @@ Power BI | DAX | Power Query | ETL | Snowflake Schema | Data Modeling
 * Implemented Slicers, Drill-Down, Drill-Through, Tooltips and Cross-Filtering for interactive analysis.
 * Applied data modeling and relationship optimization to build a scalable Power BI semantic model.
 * Validated dashboard KPIs against transformed/source data to ensure accuracy and consistency.
+* 
