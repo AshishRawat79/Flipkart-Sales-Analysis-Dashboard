@@ -36,7 +36,40 @@ Performed ETL and data cleaning using **Power Query**, including:
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="images/sales-dashboard.png" alt="Flipkart Sales Dashboard" width="1000">
+  <img src="Images/Screenshot 2026-09-08 211326.png" alt="First Page" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211343.png" alt="Flipkart Sales Dashboard" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211358.png" alt="Orders Insights" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211413.png" alt="Product Insights" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211445.png" alt="Customer Insights" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211459.png" alt="Products & Profits" width="1000">
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211510.png" alt="Details View" width="1000">
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-08 211525.png" alt="Target Analysis" width="1000">
 </p>
 
 ## 🧮 DAX KPIs
