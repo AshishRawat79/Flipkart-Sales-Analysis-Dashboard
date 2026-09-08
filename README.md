@@ -1,13 +1,52 @@
-# Flipkart-Sales-Analysis-Dashboard
+# 🛒 Flipkart Sales & Business Performance Dashboard
 
-Power BI | DAX | Power Query | ETL | Snowflake Schema | Data Modeling
+An interactive **Power BI dashboard** built to analyze Flipkart sales and business performance using data modeling, ETL, DAX, and Power Query.
 
-* Built an end-to-end Power BI dashboard for Flipkart sales and business performance analysis.
-* Designed Snowflake Schema with Fact & Dimension tables for structured analytical reporting.
-* Performed ETL and data cleaning using Power Query, including nulls, duplicates, data types and date formatting.
-* Created DAX measures and calculated columns for Revenue, Orders, Profit, AOV and business KPIs.
-* Developed interactive dashboards for Sales, Products, Customers, Categories and Regional Analysis.
-* Implemented Slicers, Drill-Down, Drill-Through, Tooltips and Cross-Filtering for interactive analysis.
-* Applied data modeling and relationship optimization to build a scalable Power BI semantic model.
-* Validated dashboard KPIs against transformed/source data to ensure accuracy and consistency.
-* 
+## 🛠️ Tools & Technologies
+
+* 📊 Power BI
+* 🧮 DAX
+* 🔄 Power Query
+* 🗄️ ETL
+* 🏗️ Snowflake Schema
+* 🔗 Data Modeling
+
+## 📌 Key Features
+
+* 💰 Revenue, Orders, Profit & AOV KPIs
+* 📦 Product & Category Analysis
+* 👥 Customer Analysis
+* 🌎 Regional Sales Analysis
+* 📈 Sales Performance Trends
+* 🎛️ Slicers & Cross-Filtering
+* 🔍 Drill-Down & Drill-Through
+* 💡 Interactive Tooltips
+* ✅ KPI Validation
+
+## 🧹 Data Preparation
+
+Performed ETL and data cleaning using **Power Query**, including:
+
+* Handling null values
+* Removing duplicates
+* Correcting data types
+* Date formatting
+* Data transformation
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="images/sales-dashboard.png" alt="Flipkart Sales Dashboard" width="1000">
+</p>
+
+## 🧮 DAX KPIs
+
+Created DAX measures and calculated columns for:
+
+**Revenue | Orders | Profit | AOV | Business KPIs**
+
+## 🎯 Project Outcome
+
+This project demonstrates practical skills in **Business Intelligence, Data Analytics, ETL, DAX, Power Query, and Power BI Data Modeling**.
+
+---
