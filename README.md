@@ -69,7 +69,7 @@ Performed ETL and data cleaning using **Power Query**, including:
 </p>
 
 <p align="center">
-  <img src="images/Target_Analysis" alt="Target Analysis" width="1000">
+  <img src="images/Target_Analysis.png" alt="Target Analysis" width="1000">
 </p>
 
 ## 🧮 DAX KPIs
