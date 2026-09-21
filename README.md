@@ -36,40 +36,40 @@ Performed ETL and data cleaning using **Power Query**, including:
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211326.png" alt="First Page" width="1000">
+  <img src="Images/first_page.png" alt="First Page" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211343.png" alt="Flipkart Sales Dashboard" width="1000">
+  <img src="Images/Flipkart_Sales_Dashboard.png" alt="Flipkart Sales Dashboard" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211358.png" alt="Orders Insights" width="1000">
+  <img src="Images/Orders_Insights.png" alt="Orders Insights" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211413.png" alt="Product Insights" width="1000">
+  <img src="Images/Product_Insights.png" alt="Product Insights" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211445.png" alt="Customer Insights" width="1000">
+  <img src="Images/Customer_Insight.png" alt="Customer Insights" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211459.png" alt="Products & Profits" width="1000">
+  <img src="Images/Products_Profits.png" alt="Products & Profits" width="1000">
 </p>
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211510.png" alt="Details View" width="1000">
+  <img src="Images/Details_View.png" alt="Details View" width="1000">
 </p>
 
 <p align="center">
-  <img src="Images/Screenshot 2026-09-08 211525.png" alt="Target Analysis" width="1000">
+  <img src="Images/Target_Analysis" alt="Target Analysis" width="1000">
 </p>
 
 ## 🧮 DAX KPIs
